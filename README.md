@@ -1,3 +1,6 @@
+![Active directory pic](https://github.com/user-attachments/assets/55b2ee0d-90bb-4540-99e8-ba73a95cfecc)
+
+
 # Active-Directory
 This repository showcases my hands-on experience with Active Directory, including installation, user and group management, Group Policy implementation, and security best practices. This project demonstrates my understanding of enterprise directory services and domain management.
 
