@@ -21,12 +21,6 @@ This project showcases my hands-on experience with Active Directory (AD). It inc
 - DNS & DHCP  
 - PowerShell  
 
-## What I Learned  
-- How to install and configure an AD environment from scratch  
-- The importance of organizational units and group policies  
-- How to manage and automate tasks using PowerShell  
-- Security best practices for an enterprise environment  
-
 ## Step 1: Setting Up the Domain Controller in Azure
 
 ### 1. Create a Resource Group
@@ -130,3 +124,9 @@ Review authentication attempts, account lockouts, and login failures.
 
 ## Conclusion
 This walkthrough provides a step-by-step guide to deploying and managing an Active Directory environment in Azure. The lab reinforced essential skills, including domain controller setup, user and group management, Group Policy enforcement, and troubleshooting domain connectivity.
+
+## What I Learned  
+- How to install and configure an AD environment from scratch  
+- The importance of organizational units and group policies  
+- How to manage and automate tasks using PowerShell  
+- Security best practices for an enterprise environment  
